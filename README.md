@@ -1,22 +1,34 @@
+<div align="center">
 
-
-# 👋 Hello, I'm Supajanat Sukkatt!
+# 👋 Hi there, I'm Supajanat Sukkatt!
 
 **2nd-Year Information Technology Student**  
 Faculty of Liberal Arts and Science, Kasetsart University (Kamphaeng Saen Campus)
 
 [![University](https://img.shields.io/badge/KU_KPS-Information_Technology-006664?style=flat-square&logo=academia&logoColor=white)](https://it.flas.kps.ku.ac.th)
 [![Location](https://img.shields.io/badge/Location-Nakhon_Pathom,_Thailand-blue?style=flat-square&logo=googlemaps&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Contact-supajanat.s@ku.th-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:supajanat.s@ku.th)
+[![Email](https://img.shields.io/badge/Email-Supajanat.s@ku.th-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Supajanat.s@ku.th)
+
+[![Line](https://img.shields.io/badge/Line-Add_Friend-00C300?style=flat-square&logo=line&logoColor=white)](https://line.me/ti/p/gJuW0DQL1t)
+[![Facebook](https://img.shields.io/badge/Facebook-Supajanat_Sukkatt-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BsQSXCXq8/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-@fnd__spn-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fnd_spn?hvrq=MWE4OTVxem11MTFhaQ%3D%3D&utm_source=qr)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am currently a sophomore majoring in **Information Technology (IT)** at **Kasetsart University (KPS Campus)**. I enjoy turning ideas into code and building practical software solutions. This GitHub profile serves as my digital workspace for university coursework, coding exercises, and personal projects.
+### 📋 Basic Information
+* 🌍 **Location:** Nakhon Pathom, Thailand
+* 🎓 **Education:** Information Technology (IT), Faculty of Liberal Arts and Science, Kasetsart University (KPS Campus)
+* 📧 **Email:** [Supajanat.s@ku.th](mailto:Supajanat.s@ku.th)
+* 🔗 **Department Website:** [it.flas.kps.ku.ac.th](https://it.flas.kps.ku.ac.th)
 
-* 🔭 **Current Focus:** Strengthening core programming fundamentals, Web Development, and Database design.
+---
+
+### 👨‍💻 Greetings & About Me
+Hello! I'm **Supajanat**, a 2nd-year undergraduate student majoring in **Information Technology (IT)** at **Kasetsart University (KPS Campus)**. I enjoy turning ideas into code and building practical software solutions. This GitHub profile serves as my digital portfolio for university coursework, coding exercises, and personal projects.
+
+* 🔭 **Current Focus:** Strengthening core programming fundamentals, Web Development, and Database management.
 * 🌱 **Currently Learning:** Object-Oriented Programming (OOP), Data Structures, and Full-Stack Web Technologies.
 * 🤝 **Open to:** Study groups, coding collaborations, and tech discussions.
 
@@ -33,10 +45,12 @@ I am currently a sophomore majoring in **Information Technology (IT)** at **Kase
 
 ---
 
-### 🎯 Learning & Career Objectives
+### 🎯 Vision & Objectives
 > *"Passionate about continuous learning and building clean, efficient software."*
 
-My goal is to bridge the gap between academic theory and real-world software engineering. I am actively building my portfolio to prepare for future software developer roles and internships.
+I am committed to continuously developing my technical skills and exploring emerging technologies to bridge the gap between academic theory and real-world software engineering. I am always looking for new learning opportunities and collaborations on projects that solve real-world problems.
+
+Feel free to contact me via email at [Supajanat.s@ku.th](mailto:Supajanat.s@ku.th) or connect via social media if you'd like to collaborate!
 
 ---
 
