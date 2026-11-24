@@ -21,8 +21,7 @@ Faculty of Liberal Arts and Science, Kasetsart University (Kamphaeng Saen Campus
 * 🌍 **Location:** Nakhon Pathom, Thailand
 * 🎓 **Education:** Information Technology (IT), Faculty of Liberal Arts and Science, Kasetsart University (KPS Campus)
 * 📧 **Email:** [Supajanat.s@ku.th](mailto:Supajanat.s@ku.th)
-* 🔗 **Department Website:** [it.flas.kps.ku.ac.th](https://it.flas.kps.ku.ac.th)
-
+  
 ---
 
 ### 👨‍💻 Greetings & About Me
